@@ -41,8 +41,10 @@ export default function Page() {
           {/* การติดต่อ */}
           <div className="p-6 border-2 border-gray-300 rounded-lg bg-white text-black shadow-md">
             <p className="text-2xl font-bold">Contact</p>
-            <p>Email: example@example.com</p>
-            <p>Phone: +123456789</p>
+            <p>Facebook : Chukkarin Junchang</p>
+            <p>Instagram : chukkarin_junchang</p>
+            <p>Email: 66022455@up.ac.th</p>
+            <p>Phone: 061-490-3790</p>
           </div>
         </div>
 
@@ -52,12 +54,23 @@ export default function Page() {
           <div className="mb-6 p-6 border-2 border-gray-300 rounded-lg bg-white text-black shadow-md">
             <h3 className="text-xl font-bold">Content Creator</h3>
             <p>
-              This section is for additional content. You can add anything here,
-              like descriptions, images, or links.
+            การเริ่มต้นเส้นทางการศึกษาที่มหาวิทยาลัยพะเยา รู้สึกตื่นเต้นแต่กังวลเมื่อก้าวเข้าสู่ช่วงใหม่ของชีวิต
             </p>
+
+            <p className= "text-xl font-bold">
+              ปีที่ 1 : การสร้างพื้นฐานซอร์ฟแวร์ 
+            </p>
+
             <p>
-              Example: Include a short bio, portfolio links, or detailed
-              achievements.
+              เริ่มต้นด้วยหลักสูตรพื้นฐานที่เสริมสร้างความรู้ของในวิชาที่จําเป็น เช่น ความรู้เบื้องต้นเกี่ยวกับการเขียนโปรแกรมและคณิตศาสตร์สําหรับคอมพิวเตอร์ วิชาเหล่านี้พื้นฐานสําหรับความเข้าใจของเกี่ยวกับอัลกอริทึมและเทคนิคการแก้ปัญหา
+            </p>
+
+            <p className ="text-xl font-bold">
+              ปีที่ 2 : เจาะลึกลงไปในความเชี่ยวชาญเฉพาะทาง
+            </p>
+
+            <p>
+            ในฐานะนักศึกษาปีที่สองฉันมีความชัดเจนมากขึ้นเกี่ยวกับเป้าหมายทางวิชาการและอาชีพของตนเอง
             </p>
           </div>
 
@@ -66,19 +79,31 @@ export default function Page() {
             <p className="text-2xl font-bold">Experience</p>
             <ul className="list-disc pl-5">
               <li>
-                <strong>Frontend Developer Intern</strong> - ABC Tech Co. (June 2023 - Aug 2023)
-                <p>- Designed and developed user-friendly UI using React.js and Tailwind CSS.</p>
-                <p>- Collaborated with backend team to integrate APIs effectively.</p>
+                <strong>โครงการทำบุญคณะและไหว้ครู คณะเทคโนโลยีสารสนเทศและการสื่อสาร</strong> 5 กรกฎาคม พ.ศ. 2566
               </li>
               <li className="mt-2">
-                <strong>Team Leader - University Project</strong> (Jan 2024 - May 2024)
-                <p>- Led a team of 5 to create a chat application using Vue.js and Firebase.</p>
-                <p>- Successfully delivered a fully functional prototype within the deadline.</p>
+                <strong>โครงการประกวดทูตวัฒนธรรมเวียง ประจำปีการศึกษา 2566</strong> 8 กรกฎาคม พ.ศ. 2566
               </li>
               <li className="mt-2">
-                <strong>Freelance Web Developer</strong> (Ongoing)
-                <p>- Created and maintained responsive websites for local businesses.</p>
-                <p>- Ensured cross-browser compatibility and optimized page loading speed.</p>
+                <strong>	ประเพณีเดินเข้า ม ประจำปี 2566</strong> 16 กรกฎาคม พ.ศ. 2566
+              </li>
+              <li className="mt-2">
+                <strong>	โครงการประกวดขับร้องเพลงลูกทุ่งและคอนเสิร์ต</strong> 9 กรกฎาคม พ.ศ. 2566
+              </li>
+              <li className="mt-2">
+                <strong> กิจกรรม ICT สืบสานลอยประทีปล้านนา</strong> 23 พฤศจิกายน พ.ศ. 2566
+              </li>
+              <li className="mt-2">
+                <strong> การพัฒนาบุคลิกภาพ </strong> 23 มกราคม พ.ศ. 2567
+              </li>
+              <li className="mt-2">
+                <strong> ความรู้โทษ พิภัย และกฎหมายที่เกี่ยวข้องกับยาเสพติด</strong> 23 มกราคม พ.ศ. 2567
+              </li>
+              <li className="mt-2">
+                <strong> เมื่องโบราณ เมืองพะเยา</strong> 23 มกราคม พ.ศ. 2567
+              </li>
+              <li className="mt-2">
+                <strong>สิ่งศักดิ์สิทธิ์จองพะเยา</strong> 23 มกราคม พ.ศ. 2567
               </li>
             </ul>
           </div>
